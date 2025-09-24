@@ -1,1 +1,1 @@
-# NumPy-vs.-scikit-learn-StandardScaler
+# NumPy vs. Scikit-learn StandardScaler
